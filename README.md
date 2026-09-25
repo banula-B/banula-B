@@ -1,297 +1,73 @@
 <div align="center">
 
-# 👋 Hi, I'm Banula Bimsara De Silva
+# Banula Bimsara De Silva
 
-### 🎓 Computer Science Undergraduate  |  🤖 AI Engineer in Progress
+### Computer Science Undergraduate · AI Engineer in Progress
 
-**Building my path from strong fundamentals to real-world AI engineering.**
+Building software and exploring intelligent systems.
 
-<p>
-  <a href="https://github.com/banula-B">
-    <img src="https://img.shields.io/github/followers/banula-B?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/banula-B?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-</p>
+[GitHub](https://github.com/banula-B) · [LinkedIn](https://www.linkedin.com/in/banula-bimsara-de-silva-04a3562a6/)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-I'm a **Computer Science undergraduate** passionate about building intelligent systems and understanding how modern AI technologies work under the hood.
+I'm a Computer Science undergraduate focused on **AI Engineering and software development**.
 
-My current journey is focused on developing a strong foundation in:
+I enjoy turning ideas into working products, learning through hands-on projects, and exploring how AI can be applied to solve practical problems.
 
-* 🐍 **Python Programming**
-* 🧠 **Machine Learning**
-* 📊 **Data Science**
-* 🤖 **Artificial Intelligence**
-* 🧩 **AI Agents & Agentic Systems**
-* ⚙️ **AI Automation**
-* 💻 **Software Development**
-
-I believe in learning by **building, experimenting, documenting, and continuously improving**.
-
-> 🚀 My goal is to grow from a learner into an AI Engineer capable of designing, building, and deploying practical AI-powered solutions.
+Currently building toward a career in **AI Engineering**.
 
 ---
 
-## 🧠 My AI Engineering Journey
+## Focus
 
-I'm currently following a structured learning journey toward becoming an **AI Engineer**.
-
-### 📍 Current Stage
-
-```text
-Python
-  ↓
-Programming Fundamentals
-  ↓
-Data Structures & Algorithms
-  ↓
-Data Science
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-Generative AI
-  ↓
-LLMs & RAG
-  ↓
-AI Agents
-  ↓
-AI Engineering
-  ↓
-Production AI Systems
-```
-
-I'm documenting this journey through projects, experiments, challenges, and notes on GitHub.
+`Artificial Intelligence` · `Machine Learning` · `AI Applications` · `Automation` · `Software Development`
 
 ---
 
-## 🔥 Current Focus
+## Selected Work
 
-### 🤖 Artificial Intelligence
+### 100 Days of Python
 
-Exploring how modern AI systems work and how they can be applied to real-world problems.
+A hands-on journey to strengthen Python programming through consistent practice.
 
-### 🧠 Machine Learning
+→ [View repository](https://github.com/banula-B/100-Days-of-Python-Challenge)
 
-Building a strong understanding of ML fundamentals, algorithms, model evaluation, and practical implementation.
+### AI Engineer — 6 Month Challenge
 
-### 🐍 Python
+A structured journey documenting my progression toward practical AI Engineering.
 
-Strengthening my Python programming skills through continuous practice and project-based learning.
+→ [View repository](https://github.com/banula-B/ai-engineer-6-month-challenge)
 
-### ⚙️ AI Automation
+### AI Assignment
 
-Exploring how AI agents and intelligent workflows can automate repetitive business processes.
+Academic work exploring Artificial Intelligence concepts and implementation.
 
-### 🧩 AI Agents
-
-Learning how autonomous and semi-autonomous AI systems can reason, use tools, interact with APIs, and complete multi-step tasks.
+→ [View repository](https://github.com/banula-B/AI-assignment)
 
 ---
 
-## 🛠️ Tech Stack
+## Tools
 
-### 💻 Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
-
-### 🤖 AI / Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-> My AI/ML stack is continuously evolving as I progress through my learning journey.
-
-### 🌐 Development & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase" />
-</p>
+**Python** · **JavaScript** · **Java** · **HTML/CSS** · **Git** · **GitHub** · **Firebase**
 
 ---
 
-## 📚 Learning & Challenges
+## Beyond Code
 
-### 🐍 100 Days of Python
+I believe good technology isn't just about writing code.
 
-A self-driven challenge focused on developing stronger Python programming skills through consistent daily practice.
-
-🔗 **[View the Challenge →](https://github.com/banula-B/100-Days-of-Python-Challenge)**
-
----
-
-### 🤖 6-Month AI Engineer Challenge
-
-A structured personal challenge designed to systematically learn the knowledge and technologies required to progress toward AI Engineering.
-
-🔗 **[View the Journey →](https://github.com/banula-B/ai-engineer-6-month-challenge)**
-
----
-
-## 🚀 Projects
-
-I'm building projects that connect what I learn with practical problems.
-
-| Project                                                                               | Description                                | Technologies |
-| ------------------------------------------------------------------------------------- | ------------------------------------------ | ------------ |
-| 🐍 [100 Days of Python](https://github.com/banula-B/100-Days-of-Python-Challenge)     | Python learning & practice journey         | Python       |
-| 🤖 [AI Engineer Challenge](https://github.com/banula-B/ai-engineer-6-month-challenge) | Structured AI Engineering learning journey | Python / AI  |
-| 🧠 [AI Assignment](https://github.com/banula-B/AI-assignment)                         | AI/ML related academic work                | Python       |
-
-> 🚧 More AI/ML projects are currently in development.
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Strengthen Python programming fundamentals
-* [ ] Build strong Machine Learning foundations
-* [ ] Learn Data Science systematically
-* [ ] Understand Deep Learning fundamentals
-* [ ] Explore Generative AI and LLMs
-* [ ] Learn Retrieval-Augmented Generation (RAG)
-* [ ] Build practical AI Agents
-* [ ] Explore AI Automation
-* [ ] Build and deploy real-world AI applications
-* [ ] Contribute to Open Source
-* [ ] Build a strong AI Engineering portfolio
-
----
-
-## 🧪 How I Learn
-
-I follow a simple cycle:
-
-```text
-        ┌───────────────┐
-        │    LEARN      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   UNDERSTAND  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    BUILD      │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   EXPERIMENT  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   DOCUMENT    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    IMPROVE    │
-        └───────┬───────┘
-                │
-                └──────────→ Repeat 🔄
-```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=banula-B&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banula-B&layout=compact&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=banula-B&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 💡 What I'm Interested In
-
-```text
-Artificial Intelligence
-Machine Learning
-Data Science
-Deep Learning
-Generative AI
-Large Language Models
-RAG
-AI Agents
-Agentic AI
-AI Automation
-Software Engineering
-Open Source
-```
-
----
-
-## 🌱 Currently Learning
-
-```text
-Python
-        ↓
-Machine Learning
-        ↓
-Data Science
-        ↓
-Deep Learning
-        ↓
-Generative AI
-        ↓
-LLMs
-        ↓
-RAG
-        ↓
-AI Agents
-        ↓
-AI Engineering
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with people who are passionate about:
-
-**AI • Machine Learning • Software Engineering • Data Science • Open Source**
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/banula-bimsara-de-silva-04a3562a6/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/banula-B">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+It's about **understanding problems, designing useful solutions, and continuously improving them.**
 
 ---
 
 <div align="center">
 
-### 🚀 Learning today. Building tomorrow. Creating with AI.
+### Learn · Build · Iterate
 
-**Thanks for visiting my profile! ⭐**
+*Always working on the next idea.*
 
 </div>
