@@ -53,30 +53,32 @@ Academic work exploring Artificial Intelligence concepts and implementation.
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Core**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,postgres,git,github" alt="Languages & Core" />
+</p>
 
 **Machine Learning & Data Science**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn" alt="PyTorch & Scikit-Learn" />
+  <img src="https://img.shields.io/badge/-%20-FFD21E?style=flat-square&logo=huggingface&logoColor=black" width="48" height="48" style="border-radius: 10px;" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/-%20-013243?style=flat-square&logo=numpy&logoColor=white" width="48" height="48" style="border-radius: 10px;" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-%20-150458?style=flat-square&logo=pandas&logoColor=white" width="48" height="48" style="border-radius: 10px;" alt="Pandas" />
+</p>
 
 **LLM Frameworks, RAG & Agents**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A1B9A?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-%20-412991?style=flat-square&logo=openai&logoColor=white" width="48" height="48" style="border-radius: 10px;" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-%20-1C3C3C?style=flat-square&logo=langchain&logoColor=white" width="48" height="48" style="border-radius: 10px;" alt="LangChain" />
+  <img src="https://img.shields.io/badge/-%20-6A1B9A?style=flat-square&logo=chroma&logoColor=white" width="48" height="48" style="border-radius: 10px;" alt="Vector DB" />
+</p>
 
 **Backend, Deployment & MLOps**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,githubactions" alt="Backend & Ops" />
+  <img src="https://img.shields.io/badge/-%20-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" width="48" height="48" style="border-radius: 10px;" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/-%20-0194E2?style=flat-square&logo=mlflow&logoColor=white" width="48" height="48" style="border-radius: 10px;" alt="MLflow" />
+  <img src="https://img.shields.io/badge/-%20-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" width="48" height="48" style="border-radius: 10px;" alt="Weights & Biases" />
+</p>
 
 ---
 
