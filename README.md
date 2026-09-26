@@ -40,13 +40,13 @@ A hands-on journey to strengthen Python programming through consistent practice.
 
 A structured journey documenting my progression toward practical AI Engineering.
 
-→ [View repository](https://github.com/banula-B/ai-engineer-6-month-challenge)
+→ [View repository](https://github.com/banula-B/ai-engineer-6-month-challenge.git)
 
-### AI Assignment
+### Emotion-Based-Music-Player
 
 Academic work exploring Artificial Intelligence concepts and implementation.
 
-→ [View repository](https://github.com/banula-B/AI-assignment)
+→ [View repository](https://github.com/banula-B/Emotion-Based-Music-Player.git)
 
 ----
 ## 🛠️ Tech Stack & Tools
