@@ -30,17 +30,11 @@ Currently building toward a career in **AI Engineering**.
 
 ## Selected Work
 
-### 100 Days of Python
+### AI Computer Agent
 
-A hands-on journey to strengthen Python programming through consistent practice.
+A voice-controlled AI computer agent built with Python that can understand commands and interact with Windows applications.
 
-→ [View repository](https://github.com/banula-B/100-Days-of-Python-Challenge)
-
-### AI Engineer — 6 Month Challenge
-
-A structured journey documenting my progression toward practical AI Engineering.
-
-→ [View repository](https://github.com/banula-B/ai-engineer-6-month-challenge.git)
+→ [View repository](https://github.com/banula-B/ai-computer-agent.git)
 
 ### Emotion-Based-Music-Player
 
@@ -48,7 +42,20 @@ Academic work exploring Artificial Intelligence concepts and implementation.
 
 → [View repository](https://github.com/banula-B/Emotion-Based-Music-Player.git)
 
+### AI Engineer — 6 Month Challenge
+
+A structured journey documenting my progression toward practical AI Engineering.
+
+→ [View repository](https://github.com/banula-B/ai-engineer-6-month-challenge.git)
+
+### 100 Days of Python
+
+A hands-on journey to strengthen Python programming through consistent practice.
+
+→ [View repository](https://github.com/banula-B/100-Days-of-Python-Challenge)
+
 ----
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming & Development
